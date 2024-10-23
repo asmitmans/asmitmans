@@ -1,6 +1,6 @@
 # Hola 👋
 
-Ingeniero Civil Electrónico con más de 5 años de experiencia en proyectos IoT, 
+Soy Ingeniero Civil Electrónico con más de 5 años de experiencia en proyectos IoT, 
 desarrollo de hardware y software. Recientemente especializado en desarrollo web 
 Fullstack con Java. Me apasiona el desarrollo y la innovación tecnológica, y 
 estoy en búsqueda de proyectos que me permitan contribuir con mis conocimientos.
