@@ -1,14 +1,14 @@
 # Hola 👋
 
-Soy un Ingeniero Civil Electrónico de Chile, especializado en desarrollo de 
-software y hardware. Recientemente, he hecho la transición hacia el desarrollo 
-web Fullstack con Java.
+Ingeniero Civil Electrónico con más de 5 años de experiencia en proyectos IoT, 
+desarrollo de hardware y software. Recientemente especializado en desarrollo web 
+Fullstack con Java. Me apasiona el desarrollo y la innovación tecnológica, y 
+estoy en búsqueda de proyectos que me permitan contribuir con mis conocimientos.
 
-- 🌱 Actualmente estoy aprendiendo: desarrollo web con Spring Boot y APIs REST.
-- 💼 Busco contribuir a proyectos innovadores en IoT y desarrollo web.
+- 🌱 Actualmente estoy aprendiendo: desarrollo avanzado en Spring Boot y arquitecturas de microservicios.
+- 💼 Busco contribuir a proyectos innovadores donde pueda aplicar mis conocimientos y seguir aprendiendo.
 - 📫 Puedes contactarme en [LinkedIn](https://www.linkedin.com/in/asmitmans).
-- 💻 Mis habilidades incluyen: Java, C, PostgreSQL, IoT, desarrollo de hardware 
-     y software.
+- 💻 Mis habilidades incluyen: Java, C, PostgreSQL, IoT, desarrollo de software.
 
 ## Proyectos
 
@@ -24,3 +24,4 @@ web Fullstack con Java.
 - C Programming with Linux - edX (2021)
 - Introduction to Git and GitHub - Coursera (2023)
 - SQL for Data Science - Coursera (2023)
+
