@@ -10,14 +10,23 @@ estoy en búsqueda de proyectos que me permitan contribuir con mis conocimientos
 - 📫 Puedes contactarme en [LinkedIn](https://www.linkedin.com/in/asmitmans).
 - 💻 Mis habilidades incluyen: Java, C, PostgreSQL, IoT, desarrollo de software.
 
-## Proyectos
+## Portafolio de Proyectos
 
-| Repositorio              | Descripción                                              | Tecnologías                          |
-|--------------------------|----------------------------------------------------------|--------------------------------------|
-| [ViajesChile](https://github.com/asmitmans/ViajesChile)         | Página web estática para una agencia de viajes ficticia en Chile. | HTML, CSS, Bootstrap                 |
-| [ClienteManager](https://github.com/asmitmans/ClienteManager)   | Sistema de gestión de clientes de una pastelería, con CRUD y almacenamiento de datos. | Java, JDBC, PostgreSQL                    |
-| [CarManagerSystem](https://github.com/asmitmans/CarManagerSystem) | Sistema para la gestión de vehículos y usuarios, con acceso controlado mediante roles. | Java, JSP, Servlets, Tomcat          |
-| [RealEstateReportsAPI](https://github.com/asmitmans/RealEstateReportsAPI) | API RESTful para gestionar proyectos inmobiliarios, protegida con JWT y Spring Security. | Java, Spring Boot, Spring Security, JWT, PostgreSQL   |
+### Proyectos de Desarrollo de Software
+| Proyecto | Descripción | Tecnologías | Repositorio |
+|----------|------------|-------------|-------------|
+| **Sistema de Gestión de Tareas** | Aplicación en Java que gestiona tareas con persistencia en MongoDB y PostgreSQL. Implementa DTOs y patrón Builder. | `Spring Boot`, `MongoDB`, `PostgreSQL`, `DTO`, `Builder` | [🔗 Repositorio](https://github.com/asmitmans/TaskManager) |
+| **Reportes Inmobiliarios** | API RESTful para gestión de reportes inmobiliarios con autenticación JWT y base de datos en PostgreSQL. | `Spring Boot`, `JWT`, `PostgreSQL`, `JPA` | [🔗 Repositorio](https://github.com/asmitmans/reportesInmobiliaria) |
+| **Sistema de Gestión de Vehiculos** | Sistema para la gestión de vehículos y usuarios, con acceso controlado mediante roles. | `Java`, `JSP`, `Servlets` | [🔗 Repositorio](https://github.com/asmitmans/CarManagerSystem) |
+| **Página web Viajes Chile** | Página web estática para una agencia de viajes ficticia en Chile. | `HTML`, `CSS`, `Bootstrap` | [🔗 Repositorio](https://github.com/asmitmans/ViajesChile) |
+
+---
+
+### Proyectos de Desarrollo Electrónico
+| Proyecto | Descripción | Tecnologías | Repositorio |
+|----------|------------|-------------|-------------|
+| **Nodo ESP32 WiFi** | Dispositivo IoT basado en ESP32 que envía datos a una API REST, con reconexión automática, almacenamiento en NVS y manejo de fallos. | `ESP-IDF`, `C`, `WiFi`, `HTTP`, `NVS` | [🔗 Repositorio](https://github.com/asmitmans/nodoESP32Wifi) |
+
 
 ## Certificaciones
 
@@ -25,3 +34,4 @@ estoy en búsqueda de proyectos que me permitan contribuir con mis conocimientos
 - Introduction to Git and GitHub - Coursera (2023)
 - SQL for Data Science - Coursera (2023)
 
+---
