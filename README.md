@@ -15,8 +15,8 @@ estoy en búsqueda de proyectos que me permitan contribuir con mis conocimientos
 ### Proyectos de Desarrollo de Software
 | Proyecto | Descripción | Tecnologías | Repositorio |
 |----------|------------|-------------|-------------|
+| **Reportes Inmobiliarios** | API RESTful para gestión de reportes inmobiliarios con autenticación JWT y base de datos en PostgreSQL. | `Spring Boot`, `JWT`, `PostgreSQL`, `JPA` | [🔗 Repositorio](https://github.com/asmitmans/RealEstateReportsAPI) |
 | **Sistema de Gestión de Tareas** | Aplicación en Java que gestiona tareas con persistencia en MongoDB y PostgreSQL. Implementa DTOs y patrón Builder. | `Spring Boot`, `MongoDB`, `PostgreSQL`, `DTO`, `Builder` | [🔗 Repositorio](https://github.com/asmitmans/TaskManager) |
-| **Reportes Inmobiliarios** | API RESTful para gestión de reportes inmobiliarios con autenticación JWT y base de datos en PostgreSQL. | `Spring Boot`, `JWT`, `PostgreSQL`, `JPA` | [🔗 Repositorio](https://github.com/asmitmans/reportesInmobiliaria) |
 | **Sistema de Gestión de Vehiculos** | Sistema para la gestión de vehículos y usuarios, con acceso controlado mediante roles. | `Java`, `JSP`, `Servlets` | [🔗 Repositorio](https://github.com/asmitmans/CarManagerSystem) |
 | **Página web Viajes Chile** | Página web estática para una agencia de viajes ficticia en Chile. | `HTML`, `CSS`, `Bootstrap` | [🔗 Repositorio](https://github.com/asmitmans/ViajesChile) |
 
