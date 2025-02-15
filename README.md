@@ -16,7 +16,7 @@ estoy en búsqueda de proyectos que me permitan contribuir con mis conocimientos
 | Proyecto | Descripción | Tecnologías | Repositorio |
 |----------|------------|-------------|-------------|
 | **Reportes Inmobiliarios** | API RESTful para la gestión de reportes inmobiliarios, implementando autenticación JWT y operaciones CRUD completas. | `Java`, `Spring Boot`, `Spring Security`, `JPA/Hibernate`, `PostgreSQL` | [Repositorio](https://github.com/asmitmans/RealEstateReportsAPI) |
-| **Sistema de Gestión de Tareas** | Aplicación en Java para la gestión eficiente de tareas y proyectos. | `Java` | [Repositorio](https://github.com/asmitmans/TaskManager) |
+| **Sistema de Gestión de Tareas** | Aplicación en Java para la gestión eficiente de tareas y proyectos. | `Java`, `JUnit` | [Repositorio](https://github.com/asmitmans/TaskManager) |
 | **Gestor de Vehículos** | Sistema básico para la gestión de permisos y registros de vehículos. Desarrollado utilizando Java EE,. | `Java EE`, `Servlets`, `JSP` | [Repositorio](https://github.com/asmitmans/CarManagerSystem) |
 | **Viajes Chile** | Página web estática para una agencia de viajes ficticia en Chile. | `HTML`, `CSS`, `Bootstrap`, `JavaScript`, `jQuery` | [Repositorio](https://github.com/asmitmans/ViajesChile) |
 
