@@ -15,17 +15,17 @@ estoy en búsqueda de proyectos que me permitan contribuir con mis conocimientos
 ### Proyectos de Desarrollo de Software
 | Proyecto | Descripción | Tecnologías | Repositorio |
 |----------|------------|-------------|-------------|
-| **Reportes Inmobiliarios** | API RESTful para la gestión de reportes inmobiliarios, implementando autenticación JWT y operaciones CRUD completas. | `Java`, `Spring Boot`, `Spring Security`, `JPA/Hibernate`, `PostgreSQL` | [🔗 Repositorio](https://github.com/asmitmans/RealEstateReportsAPI) |
-| **Sistema de Gestión de Tareas** | Aplicación en Java para la gestión eficiente de tareas y proyectos. | `Java` | [🔗 Repositorio](https://github.com/asmitmans/TaskManager) |
-| **Gestor de Vehículos** | Sistema básico para la gestión de permisos y registros de vehículos. Desarrollado utilizando Java EE,. | `Java EE`, `Servlets`, `JSP` | [🔗 Repositorio](https://github.com/asmitmans/CarManagerSystem) |
-| **Viajes Chile** | Página web estática para una agencia de viajes ficticia en Chile. | `HTML`, `CSS`, `Bootstrap`, `JavaScript`, `jQuery` | [🔗 Repositorio](https://github.com/asmitmans/ViajesChile) |
+| **Reportes Inmobiliarios** | API RESTful para la gestión de reportes inmobiliarios, implementando autenticación JWT y operaciones CRUD completas. | `Java`, `Spring Boot`, `Spring Security`, `JPA/Hibernate`, `PostgreSQL` | [Repositorio](https://github.com/asmitmans/RealEstateReportsAPI) |
+| **Sistema de Gestión de Tareas** | Aplicación en Java para la gestión eficiente de tareas y proyectos. | `Java` | [Repositorio](https://github.com/asmitmans/TaskManager) |
+| **Gestor de Vehículos** | Sistema básico para la gestión de permisos y registros de vehículos. Desarrollado utilizando Java EE,. | `Java EE`, `Servlets`, `JSP` | [Repositorio](https://github.com/asmitmans/CarManagerSystem) |
+| **Viajes Chile** | Página web estática para una agencia de viajes ficticia en Chile. | `HTML`, `CSS`, `Bootstrap`, `JavaScript`, `jQuery` | [Repositorio](https://github.com/asmitmans/ViajesChile) |
 
 ---
 
 ### Proyectos de Desarrollo Electrónico
 | Proyecto | Descripción | Tecnologías | Repositorio |
 |----------|------------|-------------|-------------|
-| **Nodo ESP32 WiFi** | Dispositivo IoT basado en ESP32 que envía datos a una API REST, con reconexión automática, almacenamiento en NVS y manejo de fallos. | `ESP-IDF`, `C`, `WiFi`, `HTTP`, `NVS` | [🔗 Repositorio](https://github.com/asmitmans/nodoESP32Wifi) |
+| **Nodo ESP32 WiFi** | Dispositivo IoT basado en ESP32 que envía datos a una API REST, con reconexión automática, almacenamiento en NVS y manejo de fallos. | `ESP-IDF`, `C`, `WiFi`, `HTTP`, `NVS` | [Repositorio](https://github.com/asmitmans/nodoESP32Wifi) |
 
 
 ## Certificaciones
