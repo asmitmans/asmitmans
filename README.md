@@ -15,10 +15,10 @@ estoy en búsqueda de proyectos que me permitan contribuir con mis conocimientos
 ### Proyectos de Desarrollo de Software
 | Proyecto | Descripción | Tecnologías | Repositorio |
 |----------|------------|-------------|-------------|
-| **Reportes Inmobiliarios** | API RESTful para gestión de reportes inmobiliarios con autenticación JWT y base de datos en PostgreSQL. | `Spring Boot`, `JWT`, `PostgreSQL`, `JPA` | [🔗 Repositorio](https://github.com/asmitmans/RealEstateReportsAPI) |
-| **Sistema de Gestión de Tareas** | Aplicación en Java que gestiona tareas con persistencia en MongoDB y PostgreSQL. Implementa DTOs y patrón Builder. | `Spring Boot`, `MongoDB`, `PostgreSQL`, `DTO`, `Builder` | [🔗 Repositorio](https://github.com/asmitmans/TaskManager) |
-| **Sistema de Gestión de Vehiculos** | Sistema para la gestión de vehículos y usuarios, con acceso controlado mediante roles. | `Java`, `JSP`, `Servlets` | [🔗 Repositorio](https://github.com/asmitmans/CarManagerSystem) |
-| **Página web Viajes Chile** | Página web estática para una agencia de viajes ficticia en Chile. | `HTML`, `CSS`, `Bootstrap` | [🔗 Repositorio](https://github.com/asmitmans/ViajesChile) |
+| **Reportes Inmobiliarios** | API RESTful para la gestión de reportes inmobiliarios, implementando autenticación JWT y operaciones CRUD completas. | `Java`, `Spring Boot`, `Spring Security`, `JPA/Hibernate`, `PostgreSQL` | [🔗 Repositorio](https://github.com/asmitmans/RealEstateReportsAPI) |
+| **Sistema de Gestión de Tareas** | Aplicación en Java para la gestión eficiente de tareas y proyectos. | `Java` | [🔗 Repositorio](https://github.com/asmitmans/TaskManager) |
+| **Gestor de Vehículos** | Sistema básico para la gestión de permisos y registros de vehículos. Desarrollado utilizando Java EE,. | `Java EE`, `Servlets`, `JSP` | [🔗 Repositorio](https://github.com/asmitmans/CarManagerSystem) |
+| **Viajes Chile** | Página web estática para una agencia de viajes ficticia en Chile. | `HTML`, `CSS`, `Bootstrap`, `JavaScript`, `jQuery` | [🔗 Repositorio](https://github.com/asmitmans/ViajesChile) |
 
 ---
 
