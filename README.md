@@ -15,6 +15,7 @@ estoy en búsqueda de proyectos que me permitan contribuir con mis conocimientos
 ### Proyectos de Desarrollo de Software
 | Proyecto | Descripción | Tecnologías | Repositorio |
 |----------|------------|-------------|-------------|
+ **IoT Data API** | API RESTful para el almacenamiento y gestión de datos de sensores IoT, con autenticación JWT, API Keys y consumo de mensajes vía ActiveMQ. | `Java`, `Spring Boot`, `Spring Security`, `JPA`, `PostgreSQL`, `ActiveMQ` | [Repositorio](https://github.com/asmitmans/IoTDataAPI) |
 | **Reportes Inmobiliarios** | API RESTful para la gestión de reportes inmobiliarios, implementando autenticación JWT y operaciones CRUD completas. | `Java`, `Spring Boot`, `Spring Security`, `JPA/Hibernate`, `PostgreSQL` | [Repositorio](https://github.com/asmitmans/RealEstateReportsAPI) |
 | **Sistema de Gestión de Tareas** | Aplicación en Java para la gestión eficiente de tareas y proyectos. | `Java`, `JUnit` | [Repositorio](https://github.com/asmitmans/TaskManager) |
 | **Gestor de Vehículos** | Sistema básico para la gestión de permisos y registros de vehículos. Desarrollado utilizando Java EE,. | `Java EE`, `Servlets`, `JSP` | [Repositorio](https://github.com/asmitmans/CarManagerSystem) |
